@@ -1,5 +1,3 @@
-/* -------------------------------------------------------------------------------------------- */
-/* primero normalizamos la pagina sacando el margen, padding y teniendo control sobre las cajas */
 *{
     margin: 0;
     padding: 0;
@@ -29,7 +27,6 @@ h1{
 h2{
     margin-top: 5px;
     font-size: 1.5rem;
-    
 }
 header{
     height: 10rem;
